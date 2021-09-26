@@ -5,9 +5,9 @@ TweenMax.staggerFrom(
         x: "-80",
         opacity: 0,
         ease: Power3.easeOut,
-        delay: .5,
+        delay: 1,
     },
-    0.2
+    0.08
 );
 
 TweenMax.staggerFrom(
@@ -17,9 +17,9 @@ TweenMax.staggerFrom(
         x: "-80",
         opacity: 0,
         ease: Power3.easeOut,
-        delay: .5,
+        delay: 1,
     },
-    0.2
+    0.08
 );
 
 TweenMax.staggerTo(
